@@ -1,0 +1,18 @@
+.container {
+  justify-content: center;
+}
+
+.timer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 32px;
+  gap: 4px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  margin-right: 24px;
+}
